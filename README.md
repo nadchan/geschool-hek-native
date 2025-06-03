@@ -7,5 +7,8 @@ kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan
 - 2. jika sudah download lastest release di [lastest release](https://github.com/nadchan/geschool-hek-native/releases/tag/release)
   3. selesai login geschool lewat browser di vm dan start app
 
+## fitur
+- support vm
+  > klo support vm kan bisa keluar aplikasi vm nya simple kan klo mau banyak fiturnya make colorfulstage link di atas
 ## Disclaimer
 This repository is for educational purposes only.
