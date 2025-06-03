@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/frame" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/webview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/splash" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/loading" />
+    <FrameLayout android:id="@id/pinnedSplash" android:background="@android:color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginRight="32.0dip" android:text="Konten hanya dapat di lihat dalam mode &quot;Screen Pinned Mode&quot;.\n\n Tap layar untuk mulai" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/alertSplash" android:background="#ffff0000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="5.0dip" />
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/multiWindowSplash" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textColor="#ffb71c1c" android:gravity="center" android:layout_gravity="center" android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginRight="32.0dip" android:text="Multi Windowed Mode Not Allowed" />
+    </FrameLayout>
+</FrameLayout>
