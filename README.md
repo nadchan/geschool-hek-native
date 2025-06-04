@@ -6,10 +6,16 @@ kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan
 <table>
   <tr>
     <td>tampilan tryout saar di web</td>
-     <td>saat memasuki secure app vm</td>
   </tr>
   <tr>
     <td><img src="before.png" width=1080 height=720></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+     <td>saat memasuki secure app vm</td>
+  </tr>
+  <tr>
     <td><img src="after.png" width=1080 height=720></td>
   </tr>
  </table>
