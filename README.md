@@ -5,10 +5,10 @@ kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan
 
 <table>
   <tr>
-    <td>tampilan tryout saar di web</td>
+    <td>tampilan tryout saat di web</td>
   </tr>
   <tr>
-    <td><img src="before.png" width=1080 height=720></td>
+    <td><img src="before.png" width=420 height=240></td>
   </tr>
  </table>
 <table>
@@ -16,7 +16,7 @@ kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan
      <td>saat memasuki secure app vm</td>
   </tr>
   <tr>
-    <td><img src="after.png" width=1080 height=720></td>
+    <td><img src="after.png" width=420 height=240></td>
   </tr>
  </table>
 ## before memakai
