@@ -8,7 +8,7 @@ kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan
     <td>tampilan tryout saat di web</td>
   </tr>
   <tr>
-    <td><img src="before.png" width=420 height=240></td>
+    <td><img src="before.png" width=720 height=320></td>
   </tr>
  </table>
 <table>
@@ -16,9 +16,10 @@ kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan
      <td>saat memasuki secure app vm</td>
   </tr>
   <tr>
-    <td><img src="after.png" width=420 height=240></td>
+    <td><img src="after.png" width=720 height=320></td>
   </tr>
  </table>
+
 ## before memakai
 - 1 . punya vm contoh [VM MASTER PLAYSTORE](https://play.google.com/store/apps/details?id=com.clone.android.dual.space&hl=en-US)
      tutorial masang vm : [link youtube ](https://www.youtube.com/watch?v=_Sb4YLj-G1s)
