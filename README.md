@@ -29,5 +29,6 @@ kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan
 ## fitur
 - support vm
   > klo support vm kan bisa keluar aplikasi vm nya simple kan klo mau banyak fiturnya make colorfulstage link di atas
+- integrity and root spoofer thanks to [bypass integrity repo](https://github.com/aimardcr/APKKiller)
 ## Disclaimer
 This repository is for educational purposes only.
