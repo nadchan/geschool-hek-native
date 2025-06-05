@@ -1,4 +1,4 @@
-# geschool-hek-native
+# geschool-hek-native 1.27
 using "Geschool Secure Mode" in vm (virtual machine)
 kalau mau make di hp utama pake di [colorful stage! ](https://github.com/nadchan/colorfulstage)
 #### Before And after
